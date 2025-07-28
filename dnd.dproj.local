@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/26 11:10:37.000.612,=C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/26 11:28:48.000.690,=C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/26 11:30:58.000.476,=C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/26 11:31:05.000.177,=C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/26 11:31:20.000.939,=C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/26 11:32:06.000.293,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Davi\Documents\projeto rpg\UnitClasse.dfm</Transaction>
+    <Transaction>2025/07/26 11:32:06.000.293,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Davi\Documents\projeto rpg\UnitClasse.pas</Transaction>
+    <Transaction>2025/07/26 11:32:13.000.796,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Davi\Documents\projeto rpg\UnitRaca.pas</Transaction>
+    <Transaction>2025/07/26 11:32:13.000.796,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Davi\Documents\projeto rpg\UnitRaca.dfm</Transaction>
+    <Transaction>2025/07/26 11:32:19.000.108,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Davi\Documents\projeto rpg\UnitMain.pas</Transaction>
+    <Transaction>2025/07/26 11:32:19.000.108,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Davi\Documents\projeto rpg\UnitMain.dfm</Transaction>
+    <Transaction>2025/07/26 11:32:43.000.221,C:\Users\Davi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Davi\Documents\projeto rpg\dnd.dproj</Transaction>
+    <Transaction>2025/07/26 11:33:11.000.814,C:\Users\Davi\Documents\projeto rpg\UnitClasse.pas=C:\Users\Davi\Documents\projeto rpg\UnitDM.pas</Transaction>
+    <Transaction>2025/07/26 11:33:11.000.814,C:\Users\Davi\Documents\projeto rpg\UnitClasse.dfm=C:\Users\Davi\Documents\projeto rpg\UnitDM.dfm</Transaction>
+    <Transaction>2025/07/26 11:33:28.000.043,=C:\Users\Davi\Documents\projeto rpg\Unit2.pas</Transaction>
+    <Transaction>2025/07/26 11:33:40.000.133,C:\Users\Davi\Documents\projeto rpg\Unit2.dfm=C:\Users\Davi\Documents\projeto rpg\UnitOrigem.dfm</Transaction>
+    <Transaction>2025/07/26 11:33:40.000.133,C:\Users\Davi\Documents\projeto rpg\Unit2.pas=C:\Users\Davi\Documents\projeto rpg\UnitOrigem.pas</Transaction>
+    <Transaction>2025/07/26 11:33:56.000.941,=C:\Users\Davi\Documents\projeto rpg\Unit4.pas</Transaction>
+    <Transaction>2025/07/26 11:34:07.000.244,C:\Users\Davi\Documents\projeto rpg\Unit4.pas=C:\Users\Davi\Documents\projeto rpg\UnitClasse.pas</Transaction>
+    <Transaction>2025/07/26 11:34:07.000.244,C:\Users\Davi\Documents\projeto rpg\Unit4.dfm=C:\Users\Davi\Documents\projeto rpg\UnitClasse.dfm</Transaction>
+    <Transaction>2025/07/26 11:36:04.000.297,=C:\Users\Davi\Documents\projeto rpg\Unit5.pas</Transaction>
+    <Transaction>2025/07/26 11:36:11.000.548,C:\Users\Davi\Documents\projeto rpg\Unit5.pas=C:\Users\Davi\Documents\projeto rpg\UnitFicha.pas</Transaction>
+    <Transaction>2025/07/26 11:36:11.000.548,C:\Users\Davi\Documents\projeto rpg\Unit5.dfm=C:\Users\Davi\Documents\projeto rpg\UnitFicha.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
